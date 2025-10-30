@@ -1,0 +1,84 @@
+======================================================================
+REPORTE DE PROCESAMIENTO DE IMÁGENES
+======================================================================
+
+Total de imágenes: 18
+Procesadas exitosamente: 18
+Con errores: 0
+
+----------------------------------------------------------------------
+DETALLE POR IMAGEN:
+----------------------------------------------------------------------
+
+Imagen: Noise (1).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (1)_resultado.png
+
+Imagen: Noise (10).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (10)_resultado.png
+
+Imagen: Noise (11).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (11)_resultado.png
+
+Imagen: Noise (12).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (12)_resultado.png
+
+Imagen: Noise (13).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (13)_resultado.png
+
+Imagen: Noise (14).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (14)_resultado.png
+
+Imagen: Noise (15).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (15)_resultado.png
+
+Imagen: Noise (16).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (16)_resultado.png
+
+Imagen: Noise (17).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (17)_resultado.png
+
+Imagen: Noise (18).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (18)_resultado.png
+
+Imagen: Noise (2).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (2)_resultado.png
+
+Imagen: Noise (3).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (3)_resultado.png
+
+Imagen: Noise (4).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (4)_resultado.png
+
+Imagen: Noise (5).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (5)_resultado.png
+
+Imagen: Noise (6).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (6)_resultado.png
+
+Imagen: Noise (7).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (7)_resultado.png
+
+Imagen: Noise (8).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (8)_resultado.png
+
+Imagen: Noise (9).png
+  Estado: EXITOSO
+  Resultado guardado en: resultados_procesamiento\Noise (9)_resultado.png
+
